@@ -1,8 +1,4 @@
-# F Frida
-
-I like making ideas easier to see, follow and use.
-
-My work sits between software, applied AI, visual design and community projects. I am still learning in public, quietly.
+<img width="1916" height="821" alt="Welcome to my Git - hope you enjoy your stay" src="https://github.com/user-attachments/assets/eeed6cb6-cb30-43fd-9a5a-030758961134" />
 
 ## Selected work
 
