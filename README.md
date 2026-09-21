@@ -1,6 +1,7 @@
 <img width="1916" height="821" alt="Welcome to my Git - please enjoy your stay" src="https://github.com/user-attachments/assets/0fbeeecb-ef95-413b-814e-99eace437227" />
 
 ## Selected work
+## [LinkedIn](https://www.linkedin.com/in/fresfrida)
 
 ### Show Me Your Agents 2026
 
@@ -22,4 +23,4 @@ _Repository to come._
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/fresfrida)
+
