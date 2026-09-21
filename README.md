@@ -10,8 +10,6 @@ _Work in progress._
 
 A donation coordination platform by our two-person team for Data for Life 2026.
 
-`Vite` `React` `TypeScript` `Supabase`
-
 ### Collective Good
 
 A four-person VibeForGood 2026 finalist project exploring how volunteer supply could meet real service gaps.
@@ -20,4 +18,4 @@ _Repository to come._
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/fresfrida) · [3goods live demo](https://3goods.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/fresfrida)
