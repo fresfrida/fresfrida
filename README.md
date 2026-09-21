@@ -1,6 +1,6 @@
-<img width="1916" height="821" alt="Welcome to my Git - please enjoy your stay" src="https://github.com/user-attachments/assets/0fbeeecb-ef95-413b-814e-99eace437227" />
-
-[LinkedIn](https://www.linkedin.com/in/fresfrida)
+<a href="https://www.linkedin.com/in/fresfrida">
+  <img width="1366" height="580" alt="Welcome to my Git - please enjoy your stay and connect on LinkedIn" src="https://github.com/user-attachments/assets/d170fe6b-9c90-4046-8c10-b89200a34e54" />
+</a>
 
 ## Selected work
 
