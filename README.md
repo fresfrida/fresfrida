@@ -6,9 +6,13 @@
 
 _Work in progress._
 
+***
+
 ### [3goods](https://github.com/fresfrida/data-4-life)
 
 A donation coordination platform by our two-person team for Data for Life 2026.
+
+***
 
 ### Collective Good
 
