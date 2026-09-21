@@ -4,7 +4,7 @@
 
 ## Selected work
 
-### Show Me Your Agents 2026
+### JagaOS
 
 _Work in progress._
 
