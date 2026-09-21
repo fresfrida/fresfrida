@@ -14,10 +14,8 @@ A needs-based donation coordination prototype by our two-person team for Data fo
 
 ### Collective Good
 
-A four-person VibeForGood 2026 finalist project exploring how volunteer supply could meet real service gaps. I contributed the initial concept, product ideas and presentation visuals.
-
-_Repository to come when the team code and local work are ready._
+A four-person VibeForGood 2026 finalist project exploring how volunteer supply could meet real service gaps.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/fresfrida) · [3goods live demo](https://3goods.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/fresfrida)
