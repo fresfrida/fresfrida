@@ -16,7 +16,7 @@ A donation coordination platform by our two-person team for Data for Life 2026.
 
 A four-person VibeForGood 2026 finalist project exploring how volunteer supply could meet real service gaps. I contributed the initial concept, product ideas and presentation visuals.
 
-_Repository to come when the team code and local work are ready._
+_Repository to come._
 
 ---
 
