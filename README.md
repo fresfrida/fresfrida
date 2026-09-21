@@ -8,7 +8,7 @@ _Work in progress._
 
 ### [3goods](https://github.com/fresfrida/data-4-life)
 
-A needs-based donation coordination prototype by our two-person team for Data for Life 2026.
+A donation coordination platform by our two-person team for Data for Life 2026.
 
 `Vite` `React` `TypeScript` `Supabase`
 
