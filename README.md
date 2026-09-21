@@ -3,6 +3,8 @@
 ### [LinkedIn](https://www.linkedin.com/in/fresfrida)
 ## Selected work
 
+***
+
 ### Show Me Your Agents 2026
 
 _Work in progress._
