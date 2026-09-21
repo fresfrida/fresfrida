@@ -6,7 +6,7 @@
 
 _Work in progress._
 
-### [3goods](https://3goods.vercel.app/)
+### [3goods](https://github.com/fresfrida/data-4-life)
 
 A needs-based donation coordination prototype by our two-person team for Data for Life 2026.
 
