@@ -1,4 +1,4 @@
-<img width="1916" height="780" alt="Welcome to my Git - hope you enjoy your stay" src="https://github.com/user-attachments/assets/05842b81-f7e8-4238-943d-a5d02e5a0c1d" />
+<img width="1916" height="821" alt="Welcome to my Git - hope you enjoy your stay" src="https://github.com/user-attachments/assets/4b3d7487-d7a0-4f66-86c7-9976c6f07ab7" />
 
 ## Selected work
 
