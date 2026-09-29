@@ -4,7 +4,7 @@
 
 ## Selected work
 
-### JagaOS
+### [JagaOS](https://github.com/fresfrida/jagaos)
 
 _Work in progress._
 
