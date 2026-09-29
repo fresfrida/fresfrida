@@ -6,7 +6,7 @@
 
 ### [JagaOS](https://github.com/fresfrida/jagaos)
 
-_Work in progress._
+A company memory for Singapore SMEs for Show Me Your Agents 2026 hackathon.
 
 ### [3goods](https://github.com/fresfrida/data-4-life)
 
