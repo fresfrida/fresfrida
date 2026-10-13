@@ -6,7 +6,7 @@
 
 ### [JagaOS](https://github.com/fresfrida/jagaos)
 
-A company memory for Singapore SMEs for Show Me Your Agents 2026 hackathon.
+A Show Me Your Agents 2026 finalist project exploring AI record keeping for Singapore SMEs.
 
 ### [3goods](https://github.com/fresfrida/data-4-life)
 
