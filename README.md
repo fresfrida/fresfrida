@@ -2,7 +2,7 @@
   <img width="1366" height="580" alt="Welcome to my Git - please enjoy your stay and connect on LinkedIn" src="https://github.com/user-attachments/assets/add92d61-ce68-4231-a75b-9157f0bbb74f" />
 </a>
 
-## Selected work
+## My Hackathon Portfolio
 
 ### [JagaOS](https://github.com/fresfrida/jagaos)
 
