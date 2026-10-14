@@ -12,8 +12,8 @@ A Show Me Your Agents 2026 finalist project exploring AI record keeping for Sing
 
 A donation coordination platform by our two-person team for Data for Life 2026.
 
-### Collective Good
+### Collective Good _(Repository to come)_
 
 A four-person VibeForGood 2026 finalist project exploring how volunteer supply could meet real service gaps.
 
-_Repository to come._
+
